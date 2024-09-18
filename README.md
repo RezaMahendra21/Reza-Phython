@@ -1,6 +1,10 @@
+<h3>
+  <p>Author : Reza Mahendra</p>
+  <p>dosen : desi puspita,m.kom</p>
+  <p>Alamat : Pagar Alam, Sumatra Selatan</p>
+</h3>
 
-<b>Author : Reza Mahendra </b><p>
-<b> dosen : desi puspita,m.kom </b>
+# Latihan Pemrograman Python
 
 ### Deskripsi
 Repositori ini berisi latihan-latihan pemrograman Python untuk membantu memahami konsep-konsep dasar hingga lanjutan dalam Python. Latihan-latihan ini mencakup topik seperti variabel, kontrol alur, fungsi, struktur data, pemrograman berorientasi objek, dan masih banyak lagi.Repositori ini cocok untuk pemula yang ingin belajar Python dari dasar hingga menengah, serta untuk mereka yang ingin meningkatkan keterampilan pemrogramannya.
