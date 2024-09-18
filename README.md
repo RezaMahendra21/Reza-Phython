@@ -1,6 +1,6 @@
 <h3>
   <p>Author : Reza Mahendra</p>
-  <p>dosen : desi puspita,m.kom</p>
+  <p>Dosen : Desi Puspita,M.Kom</p>
   <p>Alamat : Pagar Alam, Sumatra Selatan</p>
 </h3>
 
