@@ -12,7 +12,7 @@ Untuk menjalankan latihan ini, pastikan kamu memiliki:<p>
 3. Git (opsional, untuk clone repositori).<p>
 
 ### Instalasi
-1. Clone repositori ini: git clone https://github.com/RezaMahendra21/Reza-Phython/.git
+1. Clone repositori ini: git clone https://github.com/RezaMahendra21/Reza-Phython.git
 2. Masuk ke direktori proyek: cd Reza-Phython
 3. Pastikan Python telah terinstal dengan menjalankan: python --version
 
